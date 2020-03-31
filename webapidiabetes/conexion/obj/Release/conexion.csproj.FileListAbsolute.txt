@@ -1,0 +1,33 @@
+C:\Users\J_Sanguinetti\source\repos\webapidiabetes\conexion\bin\Release\conexion.dll.config
+C:\Users\J_Sanguinetti\source\repos\webapidiabetes\conexion\bin\Release\conexion.dll
+C:\Users\J_Sanguinetti\source\repos\webapidiabetes\conexion\bin\Release\conexion.pdb
+C:\Users\J_Sanguinetti\source\repos\webapidiabetes\conexion\bin\Release\EntityFramework.dll
+C:\Users\J_Sanguinetti\source\repos\webapidiabetes\conexion\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\J_Sanguinetti\source\repos\webapidiabetes\conexion\bin\Release\EntityFramework.xml
+C:\Users\J_Sanguinetti\source\repos\webapidiabetes\conexion\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\J_Sanguinetti\source\repos\webapidiabetes\conexion\obj\Release\conexion.csprojAssemblyReference.cache
+C:\Users\J_Sanguinetti\source\repos\webapidiabetes\conexion\obj\Release\conexion.csproj.CopyComplete
+C:\Users\J_Sanguinetti\source\repos\webapidiabetes\conexion\obj\Release\conexion.dll
+C:\Users\J_Sanguinetti\source\repos\webapidiabetes\conexion\obj\Release\conexion.pdb
+C:\Users\usuario\Desktop\webapidiabetes\conexion\bin\Release\conexion.dll.config
+C:\Users\usuario\Desktop\webapidiabetes\conexion\bin\Release\conexion.dll
+C:\Users\usuario\Desktop\webapidiabetes\conexion\bin\Release\conexion.pdb
+C:\Users\usuario\Desktop\webapidiabetes\conexion\bin\Release\EntityFramework.dll
+C:\Users\usuario\Desktop\webapidiabetes\conexion\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\webapidiabetes\conexion\bin\Release\EntityFramework.xml
+C:\Users\usuario\Desktop\webapidiabetes\conexion\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\webapidiabetes\conexion\obj\Release\conexion.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\webapidiabetes\conexion\obj\Release\conexion.csproj.CopyComplete
+C:\Users\usuario\Desktop\webapidiabetes\conexion\obj\Release\conexion.dll
+C:\Users\usuario\Desktop\webapidiabetes\conexion\obj\Release\conexion.pdb
+D:\UTM TAREAS\webapidiabetes\conexion\bin\Release\conexion.dll.config
+D:\UTM TAREAS\webapidiabetes\conexion\bin\Release\conexion.dll
+D:\UTM TAREAS\webapidiabetes\conexion\bin\Release\conexion.pdb
+D:\UTM TAREAS\webapidiabetes\conexion\bin\Release\EntityFramework.dll
+D:\UTM TAREAS\webapidiabetes\conexion\bin\Release\EntityFramework.SqlServer.dll
+D:\UTM TAREAS\webapidiabetes\conexion\bin\Release\EntityFramework.xml
+D:\UTM TAREAS\webapidiabetes\conexion\bin\Release\EntityFramework.SqlServer.xml
+D:\UTM TAREAS\webapidiabetes\conexion\obj\Release\conexion.csprojAssemblyReference.cache
+D:\UTM TAREAS\webapidiabetes\conexion\obj\Release\conexion.csproj.CopyComplete
+D:\UTM TAREAS\webapidiabetes\conexion\obj\Release\conexion.dll
+D:\UTM TAREAS\webapidiabetes\conexion\obj\Release\conexion.pdb
